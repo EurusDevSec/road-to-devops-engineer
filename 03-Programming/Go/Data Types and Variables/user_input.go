@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-
+	// declare variables
 	var name string
 	var is_muggle bool
 	var yearOld int
