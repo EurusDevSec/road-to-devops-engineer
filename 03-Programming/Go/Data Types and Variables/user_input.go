@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	// declare variables
 	var name string
+	// declare is_muggle variable
 	var is_muggle bool
 	var yearOld int
 	var school string
